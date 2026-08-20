@@ -1,0 +1,9 @@
+# Information Gain Systems Research
+
+> Empirical Modeling of Information Gain Patents, Semantic Retrieval, and AI Runtimes
+
+## Published Research Monographs
+- [Algorithmic Information Gain and Content Novelty Scoring in Neural Search](algorithmic-information-gain-content-novelty-scoring.html): Analyzing how search engines evaluate semantic divergence, source attribution, and entity depth in AI-assisted technical documentation.
+- [Mathematical Modeling of Content Novelty in Vector Space](mathematical-modeling-content-novelty-vector-space.html): Calculating cosine distance and entity density across technical corpora.
+- [Entity-Attribute-Value Tuple Extraction for Structured Search](entity-attribute-value-tuple-extraction.html): Automated parsing of product specifications and technical documentation.
+- [Evaluating Retrieval-Augmented Generation Accuracy in DevTools](evaluating-rag-accuracy-devtools.html): Benchmarking semantic precision and reference integrity in agentic workflows.
